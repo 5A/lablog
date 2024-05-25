@@ -1,0 +1,12 @@
+[submodule "backend"]
+	path = backend
+	url = https://github.com/5A/lablog-backend
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/5A/lablog-frontend
+[submodule "buildtools"]
+	path = buildtools
+	url = https://github.com/5A/lablog-buildtools
+[submodule "manage"]
+	path = manage
+	url = https://github.com/5A/lablog-manage
